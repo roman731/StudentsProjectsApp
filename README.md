@@ -9,16 +9,15 @@ The admin users are able to create new projects and update/delete the projects t
 
 The student users are able to view/leave projects they've already joined and join new projects that are available. Two sets of attributes(such as leadership, experience, organizational skills etc.) are also stored for each individual student, and they are able to be edited using the GUI. The first set is the students own ratings of themselves, and the other set is a set of rating them wish for in an ideal team. The ratings are based on a scale from 1-10. An algorithm will be added later that sorts students into teams based on the mixture of attributes that fit together best.
 
-List of registered users:
-
-Admin1
-Admin2
-Admin3
-Alice
-Bob
-Charlie
-Peter
-Susan
+List of registered users:  
+Admin1  
+Admin2  
+Admin3  
+Alice  
+Bob  
+Charlie  
+Peter  
+Susan  
 
 All passwords are currently set to 'p' for testing purposes.
 
