@@ -11,12 +11,19 @@ The student users are able to view/leave projects they've already joined and joi
 
 List of registered users:
 Admin1
+
 Admin2
+
 Admin3
+
 Alice
+
 Bob
+
 Charlie
+
 Peter
+
 Susan
 
 All passwords are currently set to 'p' for testing purposes.
