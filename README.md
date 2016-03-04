@@ -5,4 +5,4 @@ StudentsProjectsApp uses a database to store various information about projects 
 
 The student users are able to view/leave projects they've already joined and join new projects which are created by the admins. Two sets of attributes(such as leadership, experience, organizational skills etc.) are also stored for each individual student, and they are able to be edited using the GUI. The first set is the students own ratings of themselves, and the other set is a set of rating them wish for in an ideal team. An algorithm will be added later that sorts students into teams based on a mixture of attributes.
 
-The admin users are able to create, update, and edit the projects they own.
+The admin users are able to create new projects and update/delete the projects they own.
